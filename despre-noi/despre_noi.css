@@ -74,7 +74,7 @@ div p{
 .bg-text {
     
 
-    background-color: rgba(0,0,0, 0.9); 
+    background-color: rgba(255, 255, 255, 0.63); 
     color: white;
     font-weight: bold;
     font-size:30px;
@@ -82,11 +82,11 @@ div p{
     padding-bottom: 200px;
     border-bottom: 10px;
     border-bottom-style: solid;
-    border-bottom-color:black;
+    border-bottom-color:rgba(255, 255, 255, 0.63);
 
     border-top: 10px;
     border-top-style: solid;
-    border-top-color:black;
+    border-top-color:rgba(255, 255, 255, 0.63);
 
     text-align: center;
   }
